@@ -1,0 +1,20 @@
+.meal img{
+    width: 300px;
+    border-radius: 8px;
+}
+
+.meal{
+    border: 1px solid rgb(58, 55, 55);
+    border-radius: 8px;
+    margin: 20px;
+    padding: 20px;
+    position: relative;
+}
+
+.btnAddFavorite{
+    width: 100%;
+    background-color: rgb(65, 65, 251);
+    color: white;
+    font-weight: 600;
+    margin-top: 10px;
+}
